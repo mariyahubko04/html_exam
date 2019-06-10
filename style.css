@@ -1,0 +1,11 @@
+@import "/scss/people.css";
+@import "/scss/people-hover.css" ;
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial;
+}
